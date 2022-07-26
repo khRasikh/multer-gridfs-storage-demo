@@ -84,6 +84,6 @@ module.exports.getFile = (req, res) => {
       }
       
     });
-  });
+  }); 
 };
 
